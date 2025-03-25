@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I am a PhD student a the department of Atmospheric Physics, Charles University in Prague (Czech Republic).
+☀️ I'm currently working on applying Lagrangian Particle Dispersion Model (e.g. FLEXPART-WRF) for the investigation of Orographic Gravity Waves.
+📚 My research interests are: Dispersion modelling, Lagrangian modelling, meteorological events and dispersionon complex terrain, orographic gravity waves, stratosphere-troposphere exchange,
+atmospheric rivers identification and tracking.
 <!--
 **MassiMart/MassiMart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
